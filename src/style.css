@@ -1,0 +1,28 @@
+.square {
+    background: #ffffff;
+    border: 1px solid #e018186c;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 10px;
+    height: 40px;
+    margin-right: 1px;
+    margin-top: 1px;
+    padding: 30px;
+    text-align:center;
+    width: 34px;
+    
+  }
+
+  .board-row{
+    display: table;
+  }
+
+  .box{
+    padding: 30px;
+    margin: 30px;
+  }
+
+  .game{
+    background-color: rgb(226, 43, 196);
+  }
